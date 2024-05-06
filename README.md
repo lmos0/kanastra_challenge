@@ -1,6 +1,6 @@
 # kanastra_challenge
 
-Este repositório contém a solução para o Hiring Challange Kanastra, foram implementadas as seguintes funcionalidades:
+Este repositório contém a solução para o Hiring Challenge Kanastra, foram implementadas as seguintes funcionalidades:
 
 ### Frontend 
 - Desenvolvido com *React.JS*, apresentando uma mensagem "Hello Kanastra!" na rota principal.
