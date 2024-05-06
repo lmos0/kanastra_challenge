@@ -16,7 +16,7 @@ Todos os serviços do projeto (frontend, backend e banco de dados) estão config
 
 ## Como executar
 
-Execute os comandos na seguinte ordem:
+Dentro da raiz do projeto, execute no terminal os comandos na seguinte ordem:
 
 + 1 - `docker compose up -d db`
 + 2 - `docker compose build teste_kanastra`
