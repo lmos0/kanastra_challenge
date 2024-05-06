@@ -1,4 +1,4 @@
-# kanastra_challenge
+# Kanastra Challenge
 
 Este repositório contém a solução para o Hiring Challenge Kanastra, foram implementadas as seguintes funcionalidades:
 
