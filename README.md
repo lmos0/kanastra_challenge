@@ -28,6 +28,6 @@ O endpoint `charges` aceitará requisições do tipo POST com os requisitos info
 
 Embora não fosse um dos requisitos obrigatórios do projeto, há também um endpoint `read` o qual aceita requisições do tipo GET. O intuito dessa rota é facilitar a visualização das informações presentes no banco de dados.
 
-## requirements.txt e django.sh
+### requirements.txt e django.sh
 Esses arquivos foram criados para serem referenciados no arquivo *Dockerfile*, com intuito de facilitar a construção da imagem. 
 
