@@ -33,7 +33,7 @@ Embora não fosse um dos requisitos obrigatórios do projeto, há também um end
 ### requirements.txt e django.sh
 Esses arquivos foram criados para serem referenciados no arquivo *Dockerfile*, com intuito de facilitar a construção da imagem. 
 
-Python 3.8+
-Django 5.0.4
-Django Rest Framework 3.15.1
-psycopg2-binary 2.9.9
+- Python 3.8+
+- Django 5.0.4
+- Django Rest Framework 3.15.1
+- psycopg2-binary 2.9.9
